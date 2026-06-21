@@ -20,3 +20,8 @@ This online introductory course will take me inside the world of cybersecurity. 
 There are 5 modules in the course, and there will be 5 folders that correspond to each module. To find the nootes, click on the specific module folder in the repository and navigate through the markdown files! 
 
 That's pretty much it. Happy reading :)
+
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/67601e95-4014-43f5-95f9-905783c9e890" />
+
+> Written/Notes by **Vincent Huynh** on **Obsidian**
+
