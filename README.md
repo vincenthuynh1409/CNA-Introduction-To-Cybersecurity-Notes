@@ -1,10 +1,10 @@
 # Cisco Networking Academy: Introduction to Cybersecurity Notes
 
-### 👋 Introduction:
+## 👋 Introduction:
 
 This online introductory course will take me inside the world of cybersecurity. I will learn cybersecurity basics to protect my personal digital life and gain insights into the biggest security challenges companies, governments, and educational institutions face today. 
 
-### 🗺️ Navigation:
+## 🗺️ Navigation:
 
 To find the notes, click on the specific module folder in the repository and navigate through the markdown files! 
 
